@@ -61,8 +61,11 @@ color: #404BBF;
     text-decoration: underline;
 }
 
-.header-address-link {
+.header-address {
     font-style: normal;
+}
+
+.header-address-link {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -150,6 +153,10 @@ background-color: #4D5AE5;
         color: #2E2F42;
 }
 
+.body-team-item {
+    background-color: #FFFFFF;
+}
+
 .body-team-subtitle {
     font-size: 20px;
     font-weight: 500;
@@ -157,10 +164,6 @@ background-color: #4D5AE5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-}
-
-.body-team-list {
-    background-color: #FFFFFF;
 }
 
 .body-team-text {
