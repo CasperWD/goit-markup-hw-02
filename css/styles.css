@@ -45,7 +45,6 @@ header {
 .header-menu-item {
     font-family: Roboto;
         font-size: 16px;
-        font-style: normal;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -82,6 +81,7 @@ color: #404BBF;
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
 }
 
 .body-head-section {
@@ -89,7 +89,6 @@ background-color: #2E2F42;
 }
 
 .body-head {
-    font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
@@ -99,11 +98,11 @@ background-color: #2E2F42;
 
 .body-button-head {
 background-color: #4D5AE5;
-font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 .body-button-head:hover {
@@ -112,18 +111,14 @@ font-family: Roboto;
 
 
 .body-info-head {
-    font-family: Roboto;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2E2F42;
 }
 
 .body-info-text {
-    font-family: Roboto;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
@@ -134,30 +129,24 @@ font-family: Roboto;
 }
 
 .body-team-head {
-    font-family: Roboto;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.1;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        color: #2E2F42;
         text-align: center;
 }
 
 .body-team-subtitle {
-    font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2E2F42;
     text-align: center;
 }
 
 .body-team-text {
-    font-family: Roboto;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
@@ -165,28 +154,22 @@ font-family: Roboto;
 }
 
 .body-port-head {
-    font-family: Roboto;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.1;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        color: #2E2F42;
         text-align: center;
 }
 
 .body-port-subtitle {
-    font-family: Roboto;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2E2F42;
 }
 .body-port-text {
-    font-family: Roboto;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
